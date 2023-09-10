@@ -161,8 +161,8 @@
     width: 90%;
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
+    align-items: left;
+    justify-content: left;
     gap: 1.5rem;
     margin-top: 4rem;
 }

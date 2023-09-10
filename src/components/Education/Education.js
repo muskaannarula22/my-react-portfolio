@@ -16,12 +16,13 @@ function Education() {
             <div className="education-body">
                 <div className="education-description">
                 <h1 style={{color:theme.primary}}>Education</h1>
-                    {educationData.map(edu => (
+                    {educationData.reverse().map(edu => (
                         <EducationCard 
                             key={edu.id}
                             id={edu.id}
                             institution={edu.institution}
                             course={edu.course}
+                            degrees={edu.degrees || ""}
                             startYear={edu.startYear}
                             endYear={edu.endYear}
                         />
