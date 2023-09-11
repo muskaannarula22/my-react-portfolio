@@ -8,7 +8,6 @@
     'Flutter',
     'Typescript',
     'Javascript',
-    'Ubuntu',
     'Matlab',
     'Unity',
     'Wordpress',

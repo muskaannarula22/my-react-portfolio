@@ -268,7 +268,7 @@ export const purpleThemeDark = {
 
 export const pinkThemeLight = {
     type: 'light',
-    primary: '#ff4f93',
+    primary: '#e06595',
     primary400: '#e56f9d',
     primary600: '#e14381',
     primary80: '#ff4f93cc',
@@ -289,7 +289,7 @@ export const pinkThemeLight = {
 }
 export const pinkThemeDark = {
     type: 'dark',
-    primary: '#ff4f93',
+    primary: '#e06595',
     primary400: '#e56f9d',
     primary600: '#e14381',
     primary80: '#ff4f93cc',
