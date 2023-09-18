@@ -301,6 +301,8 @@ export const pinkThemeDark = {
     tertiary: '#eaeaea',
     tertiary80: '#eaeaeacc',
     tertiary70: '#eaeaeab3',
+    tertiarySkills: '#a89ba8',
+    tertiarySkillsHover: '#7797a6',
     tertiary50: '#eaeaea80',
     aboutimg1: pinkThemeboy,
     aboutimg2: pinkThemegirl,
